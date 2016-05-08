@@ -22,7 +22,7 @@ import java.util.HashMap;
 import javax.net.ssl.HttpsURLConnection;
 
 /**
- * Created by walk1 on 2016-05-06.
+ * Created by walk1 on 2016-05-07.
  */
 
 public class DBConnection {
